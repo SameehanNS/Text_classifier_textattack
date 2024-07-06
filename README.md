@@ -1,0 +1,2 @@
+Text Classification with DistilBERT
+This repository contains a Python implementation for text classification using DistilBERT. The project demonstrates how to preprocess text data, and fine-tune a DistilBERT model for classification tasks. The dataset used includes various categories such as general,procedure,diagnosis,etc. Additionally, the project covers how to introduce perturbations to the input text using TextAttack library, performing advrsarial attack and training, and evaluating model performance with metrics such as accuracy and precision.
